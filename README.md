@@ -1,6 +1,6 @@
 # ACBrlib-Node-API (11/2024)
 
-Desenvolvimento de API Node.js integrada com ACBrLib, procuro desenvolvedores que possam contribuir!
+Desenvolvimento de API Node.js integrada com ACBrLib
 
 
 Projeto: ACBrlib-Node-API

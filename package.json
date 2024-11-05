@@ -1,0 +1,25 @@
+{
+  "name": "safe-api",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "pm2 start ecosystem.config.js",
+    "stop": "pm2 stop safe-api",
+    "restart": "pm2 restart safe-api",
+    "logs": "pm2 logs safe-api",
+    "dev": "nodemon src/server.js",
+    "status": "pm2 status safe-api",
+    "delete": "pm2 delete safe-api",
+    "monit": "pm2 monit safe-api"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "ffi-napi": "^4.0.3",
+    "ref-napi": "^3.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

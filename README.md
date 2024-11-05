@@ -12,9 +12,13 @@ Ubuntu 24.04.1 LTS
 Node.js 16
 
 
-ACBrCep - OK
+ACBrCep:
+teste-ok 
+api-ok
 
-ACBrBoleto - "em andamento"
+ACBrBoleto
+teste-ok
+api-em andamento
 
 
 Na pasta /src/tests estão os arquivos para testes por linha de comando, ex: xvfb-run -a node src/tests/test-libcep.js.

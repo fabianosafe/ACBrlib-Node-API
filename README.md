@@ -1,11 +1,11 @@
 # ACBrlib-Node-API (11/2024)
 
-Desenvolvimento de API Node.js integrada com ACBrLib
+Desenvolvimento de API Node.js integrada com ACBrLib, procuro desenvolvedores que possam contribuir!
 
 
 Projeto: ACBrlib-Node-API
 
-API Node.js integrada com ACBrLib(libacbr****.so (single thread)) para consulta com endpoint 
+API Node.js integrada com ACBrLib(libacbr****.so (single thread)) 
 
 Ubuntu 24.04.1 LTS
 

@@ -9,7 +9,7 @@ API Node.js integrada com ACBrLib(libacbr****.so (single thread)) para consulta 
 
 Ubuntu 24.04.1 LTS
 
-Node.js 16 (instalado via nvm)
+Node.js 16
 
 
 ACBrCep - OK
